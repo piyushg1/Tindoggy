@@ -1,0 +1,48 @@
+#title {
+    /* background-color: #ff4c68; */
+    background-color: #FD5D5D;
+    /* 
+    FF8080 
+    FFF7BC
+    C0EDA6
+    */
+}
+
+#title>.container {
+    padding: 3% 5%;
+}
+
+.nav-item {
+    padding: 0% 18px;
+}
+
+.btn {
+    margin: 5% 2%;
+}
+
+.testimonial-image {
+    border-radius: 100%;
+    width: 15%;
+    margin: 10% 3%;
+}
+
+#pricing {
+    text-align: center;
+    padding: 2%;
+}
+
+.card {
+    height: 25rem;
+}
+
+
+#cta {
+    background-color: #f39a9a;
+    padding: 5%;
+}
+
+
+.center {
+    padding: 7%;
+    text-align: center;
+}
